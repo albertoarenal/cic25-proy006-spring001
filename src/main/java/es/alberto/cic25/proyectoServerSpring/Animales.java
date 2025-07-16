@@ -11,14 +11,6 @@ public class Animales {
         this.edad = edad;
     }
 
-    public void hacerSonido() {
-        System.out.println("El animal hace un sonido genérico.");
-    }
-
-    public void moverse() {
-        System.out.println("El animal se mueve.");
-    }
-
     public String getNombre() {
         return nombre;
     }
